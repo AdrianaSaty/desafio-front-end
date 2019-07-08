@@ -1,0 +1,27 @@
+/* WHITE DO BLACK */
+$white : #ffffff;
+$very-light-pink: #f2f2f2;
+$light-sky-blue: #dde3e9;
+$light-blue-grey: #c5cfd6;
+$greyish-brown: #555555;
+$pine-green: #071723;
+
+/* BLUE */ 
+$dark-grey-blue: #2f3676;
+$dark-blue-grey: #191847;
+
+/* PURPLE */
+$rebecca-purple: #663399;
+
+// --- TXT
+.txt-pine-green{
+    color: $pine-green;
+}
+
+// --- BG
+.bg-dark-grey-blue{
+    background-color: $dark-grey-blue;
+}
+.bg-light-sky-blue{
+    background-color: $light-sky-blue;
+}
